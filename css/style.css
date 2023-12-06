@@ -1,0 +1,32 @@
+p {
+    line-height: 2;
+}
+
+p.id {
+    display:none;
+}
+p.title
+ {   font-weight: 700;
+    font-family: monospace;
+    font-size: 1.5em;
+}
+
+
+p.stanza {
+    text-transform: capitalize;
+    font-family: monospace;
+}
+
+
+p.chorus {
+    text-transform: capitalize;
+    font-family: sans-serif;
+    text-align: right;
+    font-size: small;
+    font-style: italic;
+ 
+}
+
+iframe {
+    width:100%;
+}
